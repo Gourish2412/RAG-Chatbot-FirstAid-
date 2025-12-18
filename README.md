@@ -189,12 +189,6 @@ Always consult a qualified healthcare provider in emergencies.
 
 ---
 
-## 📜 License
-
-MIT License (you can change this if needed)
-
----
-
 ## ⭐ Acknowledgements
 
 * Hugging Face Transformers
